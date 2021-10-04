@@ -6,4 +6,4 @@ branches:
   only:
     - master
 
-build: 
+build:
