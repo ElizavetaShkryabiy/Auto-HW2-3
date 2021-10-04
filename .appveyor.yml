@@ -11,5 +11,5 @@ branches:
 build: off  # будем использовать свой скрипт сборки
 
 build_script:
-  - chmod
+  - chmod --help
   - ./gradlew test
